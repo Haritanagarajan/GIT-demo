@@ -1,2 +1,3 @@
 welcome to cgvak
 example for github merging
+github sample
